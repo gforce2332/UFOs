@@ -8,8 +8,15 @@
 * [Summary](#summary)
 
 ## Resources
+- Datasets;
+  - data.js
 
-
+- Software:
+  - JavaScript
+  - D3 Library
+  - HTML
+  - CSS
+  - Bootstrap
 
 ## Results
 
