@@ -8,8 +8,8 @@
 * [Summary](#summary)
 
 ## Resources
-- Datasets;
-  - data.js
+- Datasets:
+  - [data.js](https://github.com/gforce2332/UFOs/blob/main/static/js/data.js)
 
 - Software:
   - JavaScript
