@@ -27,6 +27,7 @@ sightings.
 ## Images
 
 *Full results page with no filters selected*
+
 ![UFO Sightings Full Page](https://user-images.githubusercontent.com/98711219/171557756-29f222c2-2dc9-44ec-a0a2-2a2fa158f418.png)
 
 *Filtered results displaying Oregon sightings*
