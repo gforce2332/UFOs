@@ -35,8 +35,8 @@ sightings.
 
 
 ## Summary
-This custom webpage displays UFO sightings that have been reported around the world. A user can search for UFO sightings by filtering on date, city, state, country, and/or shape and will display results according to user input. The images displayed above show results with no filters vs a filter on the State of Oregon displaying only 3 results. Clicking on the "UFO Sightings" navigation bar in the top left corner of the page will reset the table by clearing all filters.
+This custom webpage displays UFO sightings that have been reported around the world. A user can search for UFO sightings by filtering on date, city, state, country, and/or shape and will display results according to user input. The images displayed above show results with no filters vs a filter on the State of Oregon displaying  3 results. Clicking on the "UFO Sightings" navigation bar in the top left corner of the page will reset the table by clearing all filters.
 
 ## Recommendations
-- One drawback to the new design is too many filters may result in returning zero results. Adding a drop down menu to each filter allowing the user to select possible choices would eliminate this. 
+- One drawback to the new design is too many filters may result in returning zero sightings. Adding a drop down menu to each filter allowing the user to select possible choices would eliminate this. 
 - Any new user to this sight would not necessarily be aware that clicking the upper left corner will clear the filter. Creating a "Clear" button to clear results inplace of clicking UFO Sightings in the navigation bar would be an enhancement in further development.
